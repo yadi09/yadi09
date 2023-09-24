@@ -1,5 +1,5 @@
 ### Hi there 👋
-............................................................![Sans-Red-BBG](https://github.com/yadi09/coding-challenge_one/assets/140100340/2a98adca-4737-4c68-ae68-2d9458e45ebf)..........................................................
+............................................................![Sans-Red-BBG](https://github.com/yadi09/coding-challenge_one/assets/140100340/2a98adca-4737-4c68-ae68-2d9458e45ebf)
 
 <a href="https://github.com/yadi09/github-readme-stats">
   <img height=175 align="right" src="https://github-readme-stats.vercel.app/api?username=yadi09" />
