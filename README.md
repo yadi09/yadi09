@@ -2,9 +2,9 @@
 
 ![115946188-cf20fe00-a4d4-11eb-811a-4b9d8f91fa34](https://github.com/yadi09/coding-challenge_one/assets/140100340/ce00f70c-556e-4697-a014-d57ea982e898)
 
-<a href="https://github.com/yadi09/yadi09/issues/1#issue-1910208766">
+<a controls width="500" height="300" align="right" href="https://github.com/yadi09/yadi09/issues/1#issue-1910208766">
  <video src="![115946188-cf20fe00-a4d4-11eb-811a-4b9d8f91fa34](https://github.com/yadi09/coding-challenge_one/assets/140100340/ce00f70c-556e-4697-a014-d57ea982e898)
-" controls width="500" height="300"></video>
+"></video>
 </a>
 
 <a href="https://github.com/yadi09/github-readme-stats">
