@@ -1,5 +1,5 @@
 ### Hi there 👋
-<video src="![115946188-cf20fe00-a4d4-11eb-811a-4b9d8f91fa34](https://github.com/yadi09/coding-challenge_one/assets/140100340/ce00f70c-556e-4697-a014-d57ea982e898)" controls width="600" height="240"></video>
+<video src="![115946188-cf20fe00-a4d4-11eb-811a-4b9d8f91fa34](https://github.com/yadi09/coding-challenge_one/assets/140100340/ce00f70c-556e-4697-a014-d57ea982e898)" controls width="400" height="240"></video>
 
 <a href="https://github.com/yadi09/github-readme-stats">
   <img height=175 align="right" src="https://github-readme-stats.vercel.app/api?username=yadi09" />
